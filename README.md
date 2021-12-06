@@ -1,3 +1,5 @@
+This was developed by Vaishnavi as part of her Ph.D. work.
+
 This is a 2D FMM Code to perform Matrix-Vector products of the form Ax.
 
 It is a completely algebraic version. Compressions are made via ACA.
